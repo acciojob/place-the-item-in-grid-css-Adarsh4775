@@ -2,8 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	grid-row-templates:repeat(2,1fr);
-	grid-colomn-templates:repeat(2,1fr);
+	grid-row-templates:repeat(100px,100px);
+	grid-colomn-templates:repeat(100px,100px);
 	width:200px;
 	height:200px;
 }
